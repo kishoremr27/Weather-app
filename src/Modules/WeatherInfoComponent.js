@@ -24,7 +24,7 @@ export const WeatherIcons = {
   "11d": "./Icons/storm.svg",
   "11n": "./Icons/storm.svg",
 };
- 
+
 const WeatherCondition = styled.div`
   display: flex;
   flex-direction: row;
